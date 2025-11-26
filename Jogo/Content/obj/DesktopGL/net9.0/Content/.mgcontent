@@ -4,7 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Heitor/Desktop/projetos/Sapos/Jogo/Content/Player.png</File>
+    <File>C:/Users/heito/OneDrive/Desktop/ProjAnuros/Sapos/Jogo/Content/Sprites/Player/Player.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
